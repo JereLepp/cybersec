@@ -7,3 +7,4 @@
 | 23.01.2025 | 2h | PortSwigger | Learned about PortSwigger environment |
 | 06.02.2025 | 2h | PortSwigger | Summary of the PortSwigger environment |
 | 09.02.2025 | 3,5h | PortSwigger | Did labs in the PortSwigger environment |
+| 20.02.2025 | 5h | Penetration testing | Used Docker and ZAP in Kali Linux environment to perform penetration testing |
