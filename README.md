@@ -3,9 +3,9 @@
 23.01.2025, Introduction to the PortSwigger  
 06.02.2025, Summary of the PortSwigger  
 09.02.2025, Labs in PortSwigger  
-20.02.2025, Docker and ZAP penetration testing 
-05.03.2025, Docker and ZAP penetration testing
-16.03.2025, Docker, ZAP and Hashcat
+20.02.2025, Docker and ZAP penetration testing  
+05.03.2025, Docker and ZAP penetration testing  
+16.03.2025, Docker, ZAP and Hashcat  
 | Date | Hours | Subject(s) | Output |
 | ---- | ----- | ---------- | ------ |
 | 17.01.2025 | 2h | Kick-off lecture | Course information |
