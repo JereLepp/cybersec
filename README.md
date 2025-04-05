@@ -7,6 +7,7 @@
 05.03.2025, Docker and ZAP penetration testing  
 16.03.2025, Docker, ZAP and Hashcat  
 23.03.2025, Burpsuite and Hydra  
+05.04.2025, Authorization testing  
 | Date | Hours | Subject(s) | Output |
 | ---- | ----- | ---------- | ------ |
 | 17.01.2025 | 2h | Kick-off lecture | Course information |
@@ -17,3 +18,4 @@
 | 05.03.2025 | 3h | Penetration testing | Used Docker and ZAP once again to perform penetration test on a new and imporved application |
 | 16.03.2025 | 2h | Penetration testing | Used Docker and ZAP and also did some Hashcat password hacking |
 | 23.03.2025 | 3h | Dictionary and non-dictionary attacking | Used Burpsuite and Hydra for different types of attacks |
+| 05.04.2025 | 4h | Authorization testing | Did authorization testing in Kali |
