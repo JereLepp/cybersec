@@ -13,9 +13,9 @@
 | 17.01.2025 | 2h | Kick-off lecture | Course information |
 | 23.01.2025 | 2h | PortSwigger | Learned about PortSwigger environment |
 | 06.02.2025 | 2h | PortSwigger | Summary of the PortSwigger environment |
-| 09.02.2025 | 3,5h | PortSwigger | Did labs in the PortSwigger environment |
+| 09.02.2025 | 4h | PortSwigger | Did labs in the PortSwigger environment |
 | 20.02.2025 | 5h | Penetration testing | Used Docker and ZAP in Kali Linux environment to perform penetration testing |
-| 05.03.2025 | 3h | Penetration testing | Used Docker and ZAP once again to perform penetration test on a new and imporved application |
-| 16.03.2025 | 2h | Penetration testing | Used Docker and ZAP and also did some Hashcat password hacking |
-| 23.03.2025 | 3h | Dictionary and non-dictionary attacking | Used Burpsuite and Hydra for different types of attacks |
+| 05.03.2025 | 4h | Penetration testing | Used Docker and ZAP once again to perform penetration test on a new and imporved application |
+| 16.03.2025 | 3h | Penetration testing | Used Docker and ZAP and also did some Hashcat password hacking |
+| 23.03.2025 | 5h | Dictionary and non-dictionary attacking | Used Burpsuite and Hydra for different types of attacks |
 | 05.04.2025 | 4h | Authorization testing | Did authorization testing in Kali |
