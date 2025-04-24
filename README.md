@@ -10,6 +10,7 @@
 23.03.2025, Burpsuite and Hydra  
 03.04.2025, Phase 4 lecture  
 05.04.2025, Authorization testing  
+24.04.2025, Assignments  
 | Date | Hours | Subject(s) | Output |
 | ---- | ----- | ---------- | ------ |
 | 17.01.2025 | 2h | Kick-off lecture | Course information |
@@ -23,3 +24,4 @@
 | 23.03.2025 | 6h | Dictionary and non-dictionary attacking | Used Burpsuite and Hydra for different types of attacks |
 | 03.04.2025 | 2h | Lecture | Phase 4 lecture |
 | 05.04.2025 | 4h | Authorization testing | Did authorization testing in Kali |
+| 24.04.2025 | 4h | Assignments | Tried to do the last assignments |
